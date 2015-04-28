@@ -1,2 +1,6 @@
-# nodejs-authenticator-demo
-An authentication demo using passport
+# Authenticator Starter
+
+**To run:**
+```
+npm start
+```
