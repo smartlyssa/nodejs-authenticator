@@ -29,12 +29,13 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CrabDude/nodejs-authenticator-starter.git"
+    "url": "https://github.com/smartlyssa/nodejs-authenticator"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CrabDude/nodejs-authenticator-starter/issues"
+    "url": "https://github.com/smartlyssa/nodejs-authenticator/issues"
   },
-  "homepage": "https://github.com/CrabDude/nodejs-authenticator-starter#readme"
+  "homepage": "https://github.com/smartlyssa/nodejs-authenticator#readme",
+  "devDependencies": {}
 }
